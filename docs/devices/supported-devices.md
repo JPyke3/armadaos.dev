@@ -16,6 +16,7 @@ sidebar to jump to its devices. Device-specific guides are linked where availabl
 | AYANEO Pocket ACE | SM8550 | ✅ Tested | — |
 | AYANEO Pocket DS | SM8550 | ✅ Tested | — |
 | [AYANEO Pocket DMG](ayaneo/pocket-dmg.md) | SM8550 | ✅ Tested | Bootloader key |
+| AYANEO Pocket MICRO 2 | SM8250 | ✅ Tested | — |
 | AYANEO Pocket S 2K | SM8550 | ⚪ Untested | — |
 | AYANEO Pocket S 1K | SM8550 | ⚪ Untested | — |
 
