@@ -27,7 +27,7 @@ sidebar to jump to its devices. Device-specific guides are linked where availabl
 | AYN Odin 2 Mini | SM8550 | ✅ Tested | — |
 | AYN Odin 2 | SM8550 | ✅ Tested | — |
 | AYN Thor | SM8550 | ✅ Tested | — |
-| AYN Thor Lite | SM8250 | ⚪ Untested | — |
+| AYN Thor Lite | SM8250 | ✅ Tested | — |
 | AYN Odin 3 | SM8750 | ✅ Tested | — |
 
 ## Retroid
