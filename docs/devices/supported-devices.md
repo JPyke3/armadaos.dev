@@ -17,7 +17,7 @@ sidebar to jump to its devices. Device-specific guides are linked where availabl
 | AYANEO Pocket DS | SM8550 | ✅ Tested | — |
 | [AYANEO Pocket DMG](ayaneo/pocket-dmg.md) | SM8550 | ✅ Tested | Bootloader key |
 | AYANEO Pocket MICRO 2 | SM8250 | ✅ Tested | — |
-| AYANEO Pocket S 2K | SM8550 | ⚪ Untested | — |
+| AYANEO Pocket S 2K | SM8550 | ✅ Tested | — |
 | AYANEO Pocket S 1K | SM8550 | ⚪ Untested | — |
 
 ## AYN
@@ -38,7 +38,7 @@ sidebar to jump to its devices. Device-specific guides are linked where availabl
 | Retroid Pocket 5 | SM8250 | ✅ Tested | — |
 | Retroid Pocket Flip 2 | SM8250 | ✅ Tested | — |
 | Retroid Pocket Mini | SM8250 | ⚪ Untested | — |
-| Retroid Pocket Mini V2 | SM8250 | ⚪ Untested | — |
+| Retroid Pocket Mini V2 | SM8250 | ✅ Tested | — |
 | Retroid Pocket 6 | SM8550 | ✅ Tested | — |
 | Retroid Pocket Nova | SM8550 | ✅ Tested | — |
 
