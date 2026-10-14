@@ -47,3 +47,15 @@ sidebar to jump to its devices. Device-specific guides are linked where availabl
 |---|---|---|---|
 | KONKR Pocket FIT (8 Elite) | SM8750 | ✅ Tested | — |
 | KONKR Pocket FIT (G3 Gen 3) | SM8650 | ✅ Tested | — |
+
+## MANGMI
+
+| Device | SoC | Status | Device notes |
+|---|---|---|---|
+| MANGMI AIR Y Pro (8 GB) | SM8250 | ✅ Tested | See RAM note below |
+| MANGMI Pocket Max | SM8250 | ✅ Tested | — |
+
+!!! warning "AIR Y Pro: 4 GB model"
+
+    The 4 GB RAM model is expected to run Armada, but is not recommended and will
+    not receive Armada support. We recommend using the 8gb model supported experience.
